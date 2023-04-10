@@ -2,6 +2,8 @@
 
 The YaMDb project collects user feedback on works. Works are not stored in YaMDb, you can not watch a movie or listen to music here.
 
+The project is deployed at: http://84.201.131.90/
+
 ## Functionality
 
 - JWT tokens are used for authentication.
